@@ -1,0 +1,15 @@
+numpy
+torch
+transformers
+tqdm
+datasets
+langdetect
+sentencepiece
+datasketch
+olmo-core
+requests
+joblib
+scikit-learn
+pydantic
+pydantic-settings
+python-dotenv
