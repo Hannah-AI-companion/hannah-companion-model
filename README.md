@@ -2,7 +2,7 @@
 
 This repository is dedicated to the creation and refinement of the Hannah language model (OLMo 360M). It contains the full pipeline from raw data ingestion to Direct Preference Optimization (DPO).
 
-## 🏗 Repository Structure
+## Repository Structure
 
 ```
 hannah-companion-model/
@@ -19,7 +19,7 @@ hannah-companion-model/
 └── requirements.txt        # Training dependencies (torch, olmo-core, etc.)
 ```
 
-## 🚀 Execution Steps (Step-by-Step)
+## Execution Steps (Step-by-Step)
 
 ### 1. Preparation
 Install dependencies:
@@ -67,7 +67,7 @@ python scripts/tests/test_hannah.py
 python scripts/tests/test_sft_hannah.py
 ```
 
-## 📦 Requirements
+## Requirements
 
 - NVIDIA GPU with 16GB+ VRAM recommended.
 - Python 3.10+
