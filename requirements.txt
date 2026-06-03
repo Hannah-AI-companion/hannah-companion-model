@@ -6,7 +6,7 @@ datasets
 langdetect
 sentencepiece
 datasketch
-olmo-core
+ai2-olmo-core
 requests
 joblib
 scikit-learn
